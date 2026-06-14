@@ -98,7 +98,7 @@
 
 - Analyser les biais de représentation NER : quels types de personnes, lieux et dates sont surreprésentés ? Quelles conséquences sur la portée du modèle ?
 
-## JourModélisation thématique, extraction de relations & base de connaissances
+## Modélisation thématique, extraction de relations & base de connaissances
 
 ### Chapitre 7 - Du texte à la connaissance structurée
 
