@@ -1,0 +1,350 @@
+{
+  "page_id": "bnf_fr768_f042r",
+  "schema_version": "1.0",
+  "pipeline": "hybride_vote",
+  "date_creation": "2026-06-15T14:32:07.412831+00:00",
+  "n_lignes": 8,
+  "cer_estime": 0.073521,
+  "taux_needs_review": 0.25,
+  "conventions_transcription": "CONVENTIONS_TRANSCRIPTION.md",
+  "lignes": [
+    {
+      "line_id": "l0001",
+      "transcription": "<R>Ci commence le prologue du livre</R>",
+      "confidence": 0.921435,
+      "needs_review": false,
+      "flags": [],
+      "sources": {
+        "kraken": {
+          "transcription": "<R>Ci commence le prologue du livre</R>",
+          "confiance": 0.912
+        },
+        "trocr": {
+          "transcription": "<R>Ci commence le prologue du liure</R>",
+          "confiance": 0.934
+        }
+      },
+      "source_humaine": false,
+      "baseline": [
+        [
+          142,
+          385
+        ],
+        [
+          310,
+          383
+        ],
+        [
+          478,
+          384
+        ],
+        [
+          645,
+          386
+        ],
+        [
+          812,
+          385
+        ]
+      ]
+    },
+    {
+      "line_id": "l0002",
+      "transcription": "que monseigneur saint Jehan escrist",
+      "confidence": 0.887102,
+      "needs_review": false,
+      "flags": [],
+      "sources": {
+        "kraken": {
+          "transcription": "que monseigneur saint Jehan escrist",
+          "confiance": 0.891
+        },
+        "trocr": {
+          "transcription": "que monseigneur saint Jehan escrist",
+          "confiance": 0.902
+        }
+      },
+      "source_humaine": false,
+      "baseline": [
+        [
+          140,
+          432
+        ],
+        [
+          308,
+          430
+        ],
+        [
+          476,
+          431
+        ],
+        [
+          644,
+          433
+        ],
+        [
+          810,
+          432
+        ]
+      ]
+    },
+    {
+      "line_id": "l0003",
+      "transcription": "en lisle de pathmos par la grace",
+      "confidence": 0.845673,
+      "needs_review": false,
+      "flags": [],
+      "sources": {
+        "kraken": {
+          "transcription": "en lisle de pathmos par la grace",
+          "confiance": 0.821
+        },
+        "trocr": {
+          "transcription": "en lisle de pathmos par la grace",
+          "confiance": 0.878
+        }
+      },
+      "source_humaine": false,
+      "baseline": [
+        [
+          141,
+          479
+        ],
+        [
+          309,
+          477
+        ],
+        [
+          477,
+          478
+        ],
+        [
+          645,
+          480
+        ],
+        [
+          811,
+          479
+        ]
+      ]
+    },
+    {
+      "line_id": "l0004",
+      "transcription": "du saint esperit ⁊ par le (com)mandement",
+      "confidence": 0.762318,
+      "needs_review": false,
+      "flags": [],
+      "sources": {
+        "kraken": {
+          "transcription": "du saint esperit ⁊ par le com mandement",
+          "confiance": 0.718
+        },
+        "trocr": {
+          "transcription": "du saint esperit ⁊ par le (com)mandement",
+          "confiance": 0.812
+        }
+      },
+      "source_humaine": false,
+      "baseline": [
+        [
+          139,
+          526
+        ],
+        [
+          307,
+          524
+        ],
+        [
+          475,
+          525
+        ],
+        [
+          643,
+          527
+        ],
+        [
+          809,
+          526
+        ]
+      ]
+    },
+    {
+      "line_id": "l0005",
+      "transcription": "de nostre seigneur ih[es]u crist qui li",
+      "confidence": 0.698412,
+      "needs_review": false,
+      "flags": [],
+      "sources": {
+        "kraken": {
+          "transcription": "de nostre seigneur ih[?][?]u crist qui li",
+          "confiance": 0.623
+        },
+        "trocr": {
+          "transcription": "de nostre seigneur ihesu crist qui li",
+          "confiance": 0.781
+        }
+      },
+      "source_humaine": false,
+      "baseline": [
+        [
+          140,
+          573
+        ],
+        [
+          308,
+          571
+        ],
+        [
+          476,
+          572
+        ],
+        [
+          644,
+          574
+        ],
+        [
+          810,
+          573
+        ]
+      ]
+    },
+    {
+      "line_id": "l0006",
+      "transcription": "dist [...]es ch[?]ses qui doivent",
+      "confidence": 0.387221,
+      "needs_review": true,
+      "flags": [
+        "CONFIANCE_BASSE",
+        "DISCORDANCE_MODELES"
+      ],
+      "sources": {
+        "kraken": {
+          "transcription": "dist [...]es choses qui doivent",
+          "confiance": 0.342
+        },
+        "trocr": {
+          "transcription": "dist tresces chases qui doivent",
+          "confiance": 0.441
+        }
+      },
+      "source_humaine": false,
+      "baseline": [
+        [
+          141,
+          620
+        ],
+        [
+          309,
+          618
+        ],
+        [
+          477,
+          619
+        ],
+        [
+          645,
+          621
+        ],
+        [
+          811,
+          620
+        ]
+      ]
+    },
+    {
+      "line_id": "l0007",
+      "transcription": "avenir prochainement ||",
+      "confidence": 0.813954,
+      "needs_review": false,
+      "flags": [],
+      "sources": {
+        "kraken": {
+          "transcription": "avenir prochainement ||",
+          "confiance": 0.805
+        },
+        "trocr": {
+          "transcription": "avenir prochainement ||",
+          "confiance": 0.843
+        }
+      },
+      "source_humaine": false,
+      "baseline": [
+        [
+          140,
+          667
+        ],
+        [
+          308,
+          665
+        ],
+        [
+          410,
+          666
+        ]
+      ]
+    },
+    {
+      "line_id": "l0008",
+      "transcription": "Glose : cf. Ap. 1:1-2",
+      "confidence": 0.412876,
+      "needs_review": true,
+      "flags": [
+        "CONFIANCE_BASSE"
+      ],
+      "langue": "la",
+      "sources": {
+        "kraken": {
+          "transcription": "Glose cf Ap 1 1 2",
+          "confiance": 0.378
+        },
+        "trocr": {
+          "transcription": "Glose : cf. Ap. 1:1-2",
+          "confiance": 0.456
+        }
+      },
+      "source_humaine": false,
+      "baseline": [
+        [
+          852,
+          432
+        ],
+        [
+          920,
+          430
+        ],
+        [
+          988,
+          431
+        ],
+        [
+          1056,
+          433
+        ]
+      ]
+    }
+  ],
+  "illustrations": [
+    {
+      "region_id": "r0002",
+      "region_type": "illumination",
+      "description": "A half-page miniature depicting Saint John the Evangelist seated on the island of Patmos, writing on a scroll. The figure is rendered in ultramarine blue and gold leaf against a burnished gold background. An eagle, his traditional symbol, perches at his feet. The scene is framed by a foliate border in acanthus leaf motifs with red and blue penwork.",
+      "bbox": [
+        95,
+        48,
+        520,
+        330
+      ]
+    },
+    {
+      "region_id": "r0005",
+      "region_type": "decoration",
+      "description": "An ornate historiated initial 'C' spanning four lines of text. The letter is formed in gold leaf on a blue and red parti-colored ground, with white filigree tracery. A dragon biting its own tail fills the interior curve of the letter.",
+      "bbox": [
+        95,
+        370,
+        85,
+        95
+      ]
+    }
+  ]
+}
