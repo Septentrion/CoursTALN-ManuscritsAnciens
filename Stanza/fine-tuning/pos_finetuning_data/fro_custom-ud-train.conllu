@@ -1,0 +1,71 @@
+# sent_id = train_0001
+# text = Merlin parla au roi de la queste qui devoit estre faite.
+1	Merlin	_	PROPN	NOMpro	_	2	nsubj	_	_
+2	parla	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
+3	au	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	4	case:det	_	_
+4	roi	_	NOUN	NOMcom	_	2	obl	_	_
+5	de	_	ADP	PRE	_	7	case	_	_
+6	la	_	DET	DETdef	Definite=Def|PronType=Art	7	det	_	_
+7	queste	_	NOUN	NOMcom	_	4	nmod	_	_
+8	qui	_	PRON	PROrel	PronType=Prs,Rel	11	nsubj	_	_
+9	devoit	_	AUX	VERcjg	VerbForm=Fin	11	aux	_	_
+10	estre	_	AUX	VERinf	VerbForm=Inf	11	aux:pass	_	_
+11	faite	_	VERB	VERppe	Tense=Past|VerbForm=Part	7	acl:relcl	_	_
+12	.	_	PUNCT	PONfrt	_	2	punct	_	_
+
+# sent_id = train_0002
+# text = La pucele estoit mout bele et mout cortoise en son langage.
+1	La	_	DET	DETdef	Definite=Def|PronType=Art	2	det	_	_
+2	pucele	pucele	NOUN	NOMcom	_	5	nsubj	_	_
+3	estoit	_	AUX	VERcjg	VerbForm=Fin	5	cop	_	_
+4	mout	mout	ADV	ADVgen	_	5	advmod	_	_
+5	bele	_	ADJ	ADJqua	_	0	root	_	_
+6	et	_	CCONJ	CONcoo	_	8	cc	_	_
+7	mout	mout	ADV	ADVgen	_	8	advmod	_	_
+8	cortoise	cortois	ADJ	ADJqua	_	5	conj	_	_
+9	en	_	ADP	PRE	_	11	case	_	_
+10	son	_	DET	DETpos	Poss=Yes	11	det	_	_
+11	langage	_	NOUN	NOMcom	_	5	obl	_	_
+12	.	_	PUNCT	PONfrt	_	5	punct	_	_
+
+# sent_id = train_0003
+# text = Tristan ama Yseut plus que nul autre chevalier n'ama dame.
+1	Tristan	_	PROPN	NOMpro	_	2	nsubj	_	_
+2	ama	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
+3	Yseut	_	PROPN	NOMpro	_	2	obj	_	_
+4	plus	_	ADV	ADVgen	_	2	advmod	_	_
+5	que	_	SCONJ	CONsub	_	10	mark	_	_
+6	nul	_	DET	DETind	PronType=Ind	8	det	_	_
+7	autre	_	ADJ	ADJind	PronType=Ind	8	amod	_	_
+8	chevalier	_	NOUN	NOMcom	_	10	nsubj	_	_
+9	n'	_	ADV	ADVneg	Polarity=Neg	10	advmod	_	_
+10	ama	_	VERB	VERcjg	VerbForm=Fin	2	advcl	_	_
+11	dame	dame	NOUN	NOMcom	_	10	obj	_	_
+12	.	_	PUNCT	PONfrt	_	2	punct	_	_
+
+# sent_id = train_0004
+# text = Charlemagne tint son empire dis et set anz sans guerre perdre.
+1	Charlemagne	_	PROPN	NOMpro	_	2	nsubj	_	_
+2	tint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
+3	son	_	DET	DETpos	Poss=Yes	4	det	_	_
+4	empire	_	NOUN	NOMcom	_	2	obj	_	_
+5	dis	_	NUM	DETcar	NumType=Card	8	nummod	_	_
+6	et	_	CCONJ	CONcoo	_	8	cc	_	_
+7	set	@card@	NUM	DETcar	NumType=Card	8	nummod	_	_
+8	anz	_	NOUN	NOMcom	_	2	obl	_	_
+9	sans	_	ADP	PRE	_	10	case	_	_
+10	guerre	_	NOUN	NOMcom	_	11	obj	_	_
+11	perdre	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	_
+12	.	_	PUNCT	PONfrt	_	2	punct	_	_
+
+# sent_id = train_0005
+# text = Gauvain et Perceval chevauchierent ensemble vers Camaalot.
+1	Gauvain	Gauvain	PROPN	NOMpro	_	4	nsubj	_	_
+2	et	_	CCONJ	CONcoo	_	3	cc	_	_
+3	Perceval	_	PROPN	NOMpro	_	1	conj	_	_
+4	chevauchierent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
+5	ensemble	_	ADV	ADVgen	_	4	advmod	_	_
+6	vers	_	ADP	PRE	_	7	case	_	_
+7	Camaalot	_	PROPN	NOMpro	_	4	obl	_	_
+8	.	_	PUNCT	PONfrt	_	4	punct	_	_
+

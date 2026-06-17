@@ -1,0 +1,29 @@
+# sent_id = test_0001
+# text = Artus li rois fu mout vaillanz et mout redotez de toutes genz.
+1	Artus	_	PROPN	NOMpro	_	6	nsubj	_	_
+2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	_
+3	rois	_	NOUN	NOMcom	_	1	appos	_	_
+4	fu	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	_
+5	mout	mout	ADV	ADVgen	_	6	advmod	_	_
+6	vaillanz	valoir	VERB	VERppa	Tense=Pres|VerbForm=Part	0	root	_	_
+7	et	_	CCONJ	CONcoo	_	9	cc	_	_
+8	mout	mout	ADV	ADVgen	_	9	advmod	_	_
+9	redotez	redoter	VERB	VERppe	Tense=Past|VerbForm=Part	6	conj	_	_
+10	de	_	ADP	PRE	_	12	case	_	_
+11	toutes	_	DET	DETind	PronType=Ind	12	det	_	_
+12	genz	gent	NOUN	NOMcom	_	9	obl	_	_
+13	.	_	PUNCT	PONfrt	_	6	punct	_	_
+
+# sent_id = test_0002
+# text = Lancelot vint en Bretaigne pour querre la roine Guenievre.
+1	Lancelot	_	PROPN	NOMpro	_	2	nsubj	_	_
+2	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
+3	en	_	ADP	PRE	_	4	case	_	_
+4	Bretaigne	_	PROPN	NOMpro	_	2	obl	_	_
+5	pour	_	ADP	PRE	_	6	mark	_	_
+6	querre	_	VERB	VERinf	VerbForm=Inf	2	advcl	_	_
+7	la	_	DET	DETdef	Definite=Def|PronType=Art	8	det	_	_
+8	roine	_	NOUN	NOMcom	_	6	obj	_	_
+9	Guenievre	_	PROPN	NOMpro	_	8	flat	_	_
+10	.	_	PUNCT	PONfrt	_	2	punct	_	_
+

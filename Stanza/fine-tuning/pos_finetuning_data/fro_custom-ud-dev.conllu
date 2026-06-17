@@ -1,0 +1,16 @@
+# sent_id = dev_0001
+# text = Li chevaliers prist son escu et sa lance pour aler au tournoi.
+1	Li	_	DET	DETdef	Definite=Def|PronType=Art	2	det	_	_
+2	chevaliers	_	NOUN	NOMcom	_	3	nsubj	_	_
+3	prist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
+4	son	_	DET	DETpos	Poss=Yes	5	det	_	_
+5	escu	_	NOUN	NOMcom	_	3	obj	_	_
+6	et	_	CCONJ	CONcoo	_	8	cc	_	_
+7	sa	_	DET	DETpos	Poss=Yes	8	det	_	_
+8	lance	_	NOUN	NOMcom	_	5	conj	_	_
+9	pour	_	ADP	PRE	_	10	mark	_	_
+10	aler	_	VERB	VERinf	VerbForm=Inf	3	advcl	_	_
+11	au	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	_
+12	tournoi	_	NOUN	NOMcom	_	10	obl	_	_
+13	.	_	PUNCT	PONfrt	_	3	punct	_	_
+
